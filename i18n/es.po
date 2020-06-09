@@ -27,28 +27,28 @@ msgid "Delete"
 msgstr "Borrar"
 
 msgid "Delete dashboard"
-msgstr ""
+msgstr "Borrar pestaña"
 
 msgid ""
 "Deleting dashboard \"{{ dashboardName }}\" will remove it for all users. "
 "This action cannot be undone. Are you sure you want to permanently delete "
 "this dashboard?"
-msgstr ""
+msgstr "El borrado de la pestaña \"{{ dashboardName }}\" se realizará para todos los usuarios. ¿Está seguro de que quiere borrar la pestaña?"
 
 msgid "Exit without saving"
-msgstr ""
+msgstr "Salir sin guardar"
 
 msgid "Go to dashboards"
-msgstr ""
+msgstr "Ir al panel de análisis"
 
 msgid "Save changes"
-msgstr ""
+msgstr "Guardar cambios"
 
 msgid "Translate"
 msgstr "Traducir"
 
 msgid "Search for a dashboard"
-msgstr ""
+msgstr "Buscar pestaña"
 
 msgid "Show more"
 msgstr "Mostrar más"
@@ -60,37 +60,37 @@ msgid "No access"
 msgstr "Sin acceso"
 
 msgid "No dashboards found. Use the + button to create a new dashboard."
-msgstr ""
+msgstr "No se han encontrado pestañas. Usar el botón + para crear una nueva pestaña"
 
 msgid "Requested dashboard not found"
-msgstr ""
+msgstr "No se ha encontrado la pestaña"
 
 msgid "{{count}} selected"
 msgid_plural "{{count}} selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{count}} seleccionada"
+msgstr[1] "{{count}} seleccionadas"
 
 msgid "Remove"
 msgstr "Eliminar"
 
 msgid "Delete item"
-msgstr ""
+msgstr "Borrar elemento"
 
 msgid "Messages"
 msgstr "Mensajes"
 
 msgid "See all messages"
-msgstr ""
+msgstr "Ver todos los mensajes"
 
 msgid "Item type \"{{type}}\" not supported"
-msgstr ""
+msgstr "Tipo de elemento \"{{type}}\" no soportado"
 
 msgid "Spacer"
-msgstr ""
+msgstr "Espaciador"
 
 msgid ""
 "Use a spacer to create empty vertical space between other dashboard items."
-msgstr ""
+msgstr "Use un espaciador para crear espacios verticales vacíos entre los diferentes elementos de la pestaña"
 
 msgid "Text item"
 msgstr ""
@@ -102,10 +102,10 @@ msgid "Unable to load the plugin for this item"
 msgstr ""
 
 msgid "There was a problem loading this dashboard item"
-msgstr ""
+msgstr "Hay un problema cargando este elemento"
 
 msgid "No data to display"
-msgstr ""
+msgstr "No hay datos para mostrar"
 
 msgid "Hide interpretations and details"
 msgstr ""
@@ -114,46 +114,46 @@ msgid "Show interpretations and details"
 msgstr ""
 
 msgid "View as Chart"
-msgstr ""
+msgstr "Ver como gráfico"
 
 msgid "View as Table"
-msgstr ""
+msgstr "Ver como tabla"
 
 msgid "View as Map"
-msgstr ""
+msgstr "Ver como mapa"
 
 msgid "Open in {{appName}} app"
-msgstr ""
+msgstr "Abrir en la aplicación {{appName}}"
 
 msgid "Confirm"
 msgstr "Confirmar"
 
 msgid "Add filter"
-msgstr ""
+msgstr "Añadir filtro"
 
 msgid "There are no items on this dashboard"
-msgstr ""
+msgstr "No hay elementos en esta pestaña"
 
 msgid "Show fewer"
-msgstr ""
+msgstr "Mostrar menos"
 
 msgid "Insert"
 msgstr "Insertar"
 
 msgid "Search for items to add to this dashboard"
-msgstr ""
+msgstr "Busque elementos para añadir a esta pestaña"
 
 msgid "Additional items"
-msgstr ""
+msgstr "Elementos adicionales"
 
 msgid "Text box"
 msgstr ""
 
 msgid "Dashboard title"
-msgstr ""
+msgstr "Título de la pestaña"
 
 msgid "Dashboard description"
-msgstr ""
+msgstr "Descripción de la pestaña"
 
 msgid "No description"
 msgstr "Sin descripción"
@@ -165,7 +165,7 @@ msgid "Share"
 msgstr "Compartir"
 
 msgid "Visualizations"
-msgstr ""
+msgstr "Visualizaciones"
 
 msgid "Pivot tables"
 msgstr "Tablas dinámicas"
@@ -177,10 +177,10 @@ msgid "Maps"
 msgstr "Mapas"
 
 msgid "Event reports"
-msgstr ""
+msgstr "Reporte de eventos"
 
 msgid "Event charts"
-msgstr ""
+msgstr "Gráficas de eventos"
 
 msgid "Apps"
 msgstr "Aplicaciones"
@@ -189,7 +189,7 @@ msgid "Reports"
 msgstr "Informes"
 
 msgid "Resources"
-msgstr ""
+msgstr "Recursos"
 
 msgid "Users"
 msgstr "Usuarios"
